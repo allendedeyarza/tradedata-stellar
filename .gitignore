@@ -1,5 +1,3 @@
-data/raw/
-data/curated/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
